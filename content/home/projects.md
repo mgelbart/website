@@ -50,4 +50,14 @@ filter_default = 0
 
 +++
 
-
+- I oversee and contribute to the [UBC MDS blog](https://ubc-mds.github.io/).
+- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com).
+- I recorded my [lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) from CPSC 340 (Machine Learning and Data Mining), taught at UBC in the January 2018 session.
+- I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0).
+- I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
+- I wrote [some blog posts](https://hips.seas.harvard.edu/blog/author/mgelbart/) for the (now disbanded) Harvard Intelligent Probabilistic Systems group's blog.
+- I wrote [Embryo Development Geometry Explorer](https://github.com/mgelbart/embryo-development-geometry-explorer) (EDGE), an image processing software package for developmental biology.
+- I co-created [Youth Canada](http://www.youthcanada.ca), a database of enrichment opportunities and articles for Canadian high school students.
+- I wrote [_The Magnum Opiate: a story of mystery, and intriguing_](https://github.com/mgelbart/magnum-opiate#the-magnum-opiate-a-story-of-mystery-and-intriguing).
+- I invented a [new shaving technique](https://www.youtube.com/watch?v=mfAIef4ibec) in 2011. Photography and editing by Oren Rippel.
+- I participated in a [Chinese speed competition](https://www.youtube.com/watch?v=iQYibv7SFHw) is part of [Princeton in Beijing](http://www.princeton.edu/pib/) in 2009.
