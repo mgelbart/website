@@ -17,22 +17,20 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Machine Learning"
+  institution = "Harvard University"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "A.B. in Physics"
+  institution = "Princeton University"
+  year = 2010
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Hello! I am the ~40 trillion gut bacteria, plus some smaller number of human cells, collectively known as Mike Gelbart. I was born and raised in beautiful Vancouver, British Columbia, Canada. As an undergraduate student at Princeton University, I studied physics and worked on research projects in biophysics. In graduate school I switched fields to computer science and received my PhD from the machine learning group at Harvard University. At UBC, I teach for the Department of Computer Science and the Master of Data Science program.
+Hello! I am the ~40 trillion gut bacteria, plus some smaller number of human cells, collectively known as Mike Gelbart. 
+
+#I was born and raised in beautiful Vancouver, British Columbia, Canada. As an undergraduate student at Princeton University, I studied physics and worked on research projects in biophysics. In graduate school I switched fields to computer science and received my PhD from the machine learning group at Harvard University. At UBC, I teach for the Department of Computer Science and the Master of Data Science program.
