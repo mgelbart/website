@@ -265,10 +265,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:mgelbart@cs.ubc.ca"   #"#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/MikeGelbart"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fab"
+  #  link = "https://twitter.com/MikeGelbart"
 
   [[params.social]]
     icon = "google-scholar"
