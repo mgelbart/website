@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "49.2612672"
-  longitude = "-123.25112"
+  latitude = "49.260942"
+  longitude = "-123.248872"
   zoom = 15
 
   # SITE SETUP
