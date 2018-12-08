@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hello! I am the ~40 trillion gut bacteria, plus some smaller number of human cells, collectively known as Mike Gelbart. I was born and raised in beautiful Vancouver, British Columbia, Canada. As an undergraduate student at Princeton University, I studied physics and worked on research projects in biophysics. In graduate school I switched fields to computer science and received my PhD from the machine learning group at Harvard University. At UBC, I teach for the Department of Computer Science and the Master of Data Science program.
