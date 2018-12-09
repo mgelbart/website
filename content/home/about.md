@@ -8,15 +8,15 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
+<!-- [interests]
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
     "Information Retrieval"
-  ]
+  ] -->
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+<!-- [[education.courses]]
   course = "PhD in Machine Learning"
   institution = "Harvard University"
   year = 2015
@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "A.B. in Physics"
   institution = "Princeton University"
-  year = 2010
+  year = 2010 -->
 
  
 +++
