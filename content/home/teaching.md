@@ -24,7 +24,7 @@ weight = 60
 
 #### UBC Master of Data Science courses (4 weeks each):
 
-- [DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/public/tree/master/courses/572_sup-learn-2) (Spring 2017, Spring 2018, Spring 2019)
+- [DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/DSCI_572_sup-learn-2_public) (Spring 2017, Spring 2018, Spring 2019)
 - DSCI 571: Supervised Learning I (Fall 2018)
 - DSCI 551: Descriptive Statistics and Probability for Data Science	(Fall 2018)
 - DSCI 563: Unsupervised Learning (Spring 2018)
