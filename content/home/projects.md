@@ -61,7 +61,7 @@ filter_default = 0
 - I wrote [Embryo Development Geometry Explorer](https://github.com/mgelbart/embryo-development-geometry-explorer) (EDGE), an image processing software package for developmental biology.
 
 #### Personal Projects
-
+- Along with Joel Fox, I co-created a puzzle game called [Line of Sight](https://joel-fox.itch.io/line-of-sight).
 - I wrote [_The Magnum Opiate: a story of mystery, and intriguing_](https://github.com/mgelbart/magnum-opiate#the-magnum-opiate-a-story-of-mystery-and-intriguing).
 - [This time lapse video](https://www.youtube.com/watch?v=mfAIef4ibec) from 2011 demonstrates a new shaving technique that I developed. Photography and editing by Oren Rippel.
 - I participated in a [Chinese speech competition](https://www.youtube.com/watch?v=iQYibv7SFHw) as part of [Princeton in Beijing](http://www.princeton.edu/pib/) in 2009.
