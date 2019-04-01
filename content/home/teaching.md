@@ -18,13 +18,13 @@ weight = 60
 #### UBC undergraduate courses:
 
 - [CPSC 340: Machine Learning and Data Mining](https://www.ugrad.cs.ubc.ca/~cs340/) (Spring 2017, Summer 2017, Spring 2018, Fall 2018) 
-- CPSC 303: Numerical Approximation and Discretization (Spring 2016, Spring 2019)
+- CPSC 303: Numerical Approximation and Discretization (Spring 2016, 2019)
 - [Science One Computer Science](https://www.cs.ubc.ca/~mgelbart/courses/ScienceOneCS/) (Fall 2015, Spring 2016) 
 - APSC 160: Introduction to Computation in Engineering Design (Fall 2015)
 
 #### UBC Master of Data Science courses (4 weeks each):
 
-- [DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/DSCI_572_sup-learn-2_public) (Spring 2017, Spring 2018, Spring 2019)
+- [DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/DSCI_572_sup-learn-2_public) (Spring 2017, 2018, 2019)
 - DSCI 571: Supervised Learning I (Fall 2018)
 - DSCI 551: Descriptive Statistics and Probability for Data Science	(Fall 2018)
 - DSCI 563: Unsupervised Learning (Spring 2018)
