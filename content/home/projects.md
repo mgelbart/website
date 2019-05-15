@@ -54,7 +54,7 @@ filter_default = 0
 
 - I oversee and contribute to the [UBC MDS blog](https://ubc-mds.github.io/).
 - I recorded my [lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) from CPSC 340 (Machine Learning and Data Mining), taught at UBC in the January 2018 session.
-- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com).
+- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). To learners: before signing up for my course, please read [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) in order to make an informed decision.
 - I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0).
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
 - I wrote [some blog posts](https://lips.cs.harvard.edu/blog/author/mgelbart/) for the (now disbanded) Harvard Intelligent Probabilistic Systems group's blog.
