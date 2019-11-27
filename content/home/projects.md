@@ -52,7 +52,7 @@ filter_default = 0
 
 #### Professional Projects
 
-- I recorder my [lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) from DSCI 512 (Algorithms and Data Structures), taught for the Master of Data Science at UBC in October-November 2019.
+- I recorded my [lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) from DSCI 512 (Algorithms and Data Structures), taught for the Master of Data Science at UBC in October-November 2019.
 - I recorded my [lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) from CPSC 340 (Machine Learning and Data Mining), taught at UBC in the January 2018 session.
 - I oversee and contribute to the [UBC MDS blog](https://ubc-mds.github.io/).
 - I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). To learners: before signing up for my course, please read [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) in order to make an informed decision.
