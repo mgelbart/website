@@ -56,12 +56,13 @@ filter_default = 0
   - [DSCI 572: Supervised Learning II](https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC) (Jan-Feb 2020, 8 lectures)
   - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (Oct-Nov 2019, 8 lectures)
   - [DSCI 511: Programming for Data Science](https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE) (Sep 2019, 4 lectures)
-  - [CPSC 340: Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) (Jan-Apr 2018, 33 lectures).
+  - [CPSC 340: Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) (Jan-Apr 2018, 33 lectures)
+  - Some highlights from the above: [floating point errors](https://www.youtube.com/watch?v=kNxLxwIduko&list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC&index=4&t=0s),  [recursion](https://www.youtube.com/watch?v=qaVIKeUX2FA&list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm&index=4&t=0s), [MLE and MAP](https://www.youtube.com/watch?v=y7KJcCltR5Y&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=24&t=0s)
 - I oversee and contribute to the [UBC MDS blog](https://ubc-mds.github.io/).
 - I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). To learners: before signing up for my course, please read [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) in order to make an informed decision.
 - I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0).
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
-- I wrote some blog posts for the (now disbanded) Harvard Intelligent Probabilistic Systems group's [blog](https://lips.cs.princeton.edu/front-page/blog/). My favourite is the post on [Compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/), although the equations no longer render properly.
+- I wrote some blog posts for the (now disbanded) Harvard Intelligent Probabilistic Systems group's [blog](https://lips.cs.princeton.edu/front-page/blog/). My favourite is the post on [Compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
 - I wrote [Embryo Development Geometry Explorer](https://github.com/mgelbart/embryo-development-geometry-explorer) (EDGE), an image processing software package for developmental biology.
 
 #### Personal Projects
