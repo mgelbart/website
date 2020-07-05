@@ -52,6 +52,7 @@ filter_default = 0
 
 #### Professional Projects
 
+- I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/ubc-cs/cpsc330).
 - I posted recordings of my lectures from several UBC courses: 
   - [DSCI 572: Supervised Learning II](https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC) (Jan-Feb 2020, 8 lectures)
   - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (Oct-Nov 2019, 8 lectures)
