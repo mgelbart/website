@@ -17,7 +17,7 @@ weight = 60
 
 #### UBC undergraduate courses:
 
-- [CPSC 330: Applied Machine Learning](https://github.com/ubc-cs/cpsc330) (Spring 2020)
+- [CPSC 330: Applied Machine Learning](https://github.com/ubc-cs/cpsc330) (Spring 2020, Fall 2020)
 - [CPSC 340: Machine Learning and Data Mining](https://www.students.cs.ubc.ca/~cs-340/) (Spring 2017, Summer 2017, Spring 2018, Fall 2018) 
 - CPSC 303: Numerical Approximation and Discretization (Spring 2016)
 - [Science One Computer Science](https://www.cs.ubc.ca/~mgelbart/courses/ScienceOneCS/) (Fall 2015, Spring 2016) 
@@ -25,7 +25,7 @@ weight = 60
 
 #### UBC Master of Data Science courses (4 weeks each):
 
-- [DSCI 512: Algorithms and Data Structures](https://github.com/UBC-MDS/DSCI_512_alg-data-struct) (Fall 2019)
+- [DSCI 512: Algorithms and Data Structures](https://github.com/UBC-MDS/DSCI_512_alg-data-struct) (Fall 2019, Fall 2020)
 - [DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/DSCI_572_sup-learn-2) (Spring 2017, 2018, 2019, 2020)
 - [DSCI 571: Supervised Learning I](https://github.com/UBC-MDS/DSCI_571_sup-learn-1) (Fall 2018)
 - [DSCI 551: Descriptive Statistics and Probability for Data Science](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci) (Fall 2018)
