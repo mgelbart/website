@@ -63,7 +63,7 @@ filter_default = 0
 - I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). Unfortunately, since then there has been significant controversy surrounding the company; see [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) and the [3rd party review of the situation](https://assets.datacamp.com/working-ideal-independent-third-party-review-of-datacamp.pdf).
 - I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0).
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
-- I wrote some blog posts for the (now disbanded) Harvard Intelligent Probabilistic Systems group's [blog](https://lips.cs.princeton.edu/front-page/blog/). My favourite is the post on [Compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
+- In grad school I wrote some posts for my research group's blog. One that may be of interest is on [compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
 - I wrote [Embryo Development Geometry Explorer](https://github.com/mgelbart/embryo-development-geometry-explorer) (EDGE), an image processing software package for developmental biology.
 
 #### Personal Projects
