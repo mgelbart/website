@@ -52,7 +52,7 @@ filter_default = 0
 
 #### Professional Projects
 
-- I am one of the creators of the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
+- I co-created the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
 - I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/ubc-cs/cpsc330).
 - I posted recordings of my lectures from several UBC courses: 
   - [CPSC 330: Applied Machine Learning](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC) (Sep-Dec 2020, 23 lectures)
