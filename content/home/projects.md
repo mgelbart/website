@@ -52,6 +52,7 @@ filter_default = 0
 
 #### Professional Projects
 
+- I am one of the creators of the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
 - I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/ubc-cs/cpsc330).
 - I posted recordings of my lectures from several UBC courses: 
   - [CPSC 330: Applied Machine Learning](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC) (Sep-Dec 2020, 23 lectures)
@@ -60,7 +61,7 @@ filter_default = 0
   - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (Oct-Nov 2019, 8 lectures)
   - [DSCI 511: Programming for Data Science](https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE) (Sep 2019, 4 lectures)
 - I oversee and contribute to the [UBC MDS blog](https://ubc-mds.github.io/).
-- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). Unfortunately, since then there has been significant controversy surrounding the company; see [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) and the [3rd party review of the situation](https://assets.datacamp.com/working-ideal-independent-third-party-review-of-datacamp.pdf).
+- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). Unfortunately, since then there has been significant controversy surrounding the company; see [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup). I would urge anyone considering their service to familiarize yourself with the situation to make an informed decision. 
 - I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0).
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
 - In grad school I wrote some posts for my research group's blog. One that may be of interest is on [compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
