@@ -15,6 +15,15 @@ weight = 60
 
 +++
 
+#### VISST high school courses:
+
+- Mathematics 8
+- Mathemetics 9
+- Mathemetics 10
+- Mathemetics 11
+- Applied Design, Skills & Technologies 8
+- Applied Design, Skills & Technologies 9
+
 #### UBC undergraduate courses:
 
 - [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0) (Spring 2020, Fall 2020)
