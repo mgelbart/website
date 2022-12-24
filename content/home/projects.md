@@ -52,7 +52,7 @@ filter_default = 0
 
 #### Professional Projects
 
-- I created the free online course, [Applied Reinforcement Learning with RLlib](https://applied-rl-course.netlify.app/).
+- Working with [Anyscale](https://www.anyscale.com/), I created the free online course, [Applied Reinforcement Learning with RLlib](https://applied-rl-course.netlify.app/).
 - I co-created the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
 - I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0).
 - I posted recordings of my lectures from several UBC courses: 
