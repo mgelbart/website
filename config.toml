@@ -100,8 +100,8 @@ organizations = [ { name="VISST", url="https://www.visst.ca/"} ]
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "49.260942"
-  longitude = "-123.248872"
+  latitude = "49.2634081"
+  longitude = "-123.1407302"
   zoom = 15
 
   # SITE SETUP
