@@ -65,7 +65,7 @@ organizations = [ { name="VISST", url="https://www.visst.ca/"} ]
 
   # Details for the Contact Widget
   email = "mgelbart@cs.ubc.ca"
-  address = "Room 225, ICICS/CS Building, 2366 Main Mall, Vancouver, BC V6T 1Z4, Canada"
+  address = "Suite 200, 1490 W Broadway, Vancouver, BC V6H 4E8, Canada"
   #office_hours = """
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
