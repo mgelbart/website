@@ -102,7 +102,7 @@ organizations = [ { name="VISST", url="https://www.visst.ca/"} ]
   map_api_key = ""
   latitude = "49.26349"
   longitude = "-123.13816"
-  zoom = 15
+  zoom = 12
 
   # SITE SETUP
 
