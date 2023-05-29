@@ -29,7 +29,7 @@ weight = 60
 - [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0) (Spring 2020, Fall 2020)
 - [CPSC 340: Machine Learning and Data Mining](https://www.students.cs.ubc.ca/~cs-340/) (Spring 2017, Summer 2017, Spring 2018, Fall 2018, Spring 2020, Fall 2021) 
 - CPSC 303: Numerical Approximation and Discretization (Spring 2016)
-- [Science One Computer Science](https://www.cs.ubc.ca/~mgelbart/courses/ScienceOneCS/) (Fall 2015, Spring 2016) 
+- Science One Computer Science (Fall 2015, Spring 2016) 
 - APSC 160: Introduction to Computation in Engineering Design (Fall 2015)
 
 #### UBC Master of Data Science courses (4 weeks each):
