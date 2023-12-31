@@ -19,8 +19,8 @@ weight = 60
 
 - Mathematics 8
 - Mathematics 9
-- Mathematics 10
-- Mathematics 11
+- Foundations of Mathematics and Pre-calculus 10
+- Pre-calculus 11
 - Applied Design, Skills & Technologies 8
 - Applied Design, Skills & Technologies 9
 
