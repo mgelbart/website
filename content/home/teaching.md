@@ -18,9 +18,9 @@ weight = 60
 #### VISST high school courses:
 
 - Mathematics 8
-- Mathemetics 9
-- Mathemetics 10
-- Mathemetics 11
+- Mathematics 9
+- Mathematics 10
+- Mathematics 11
 - Applied Design, Skills & Technologies 8
 - Applied Design, Skills & Technologies 9
 
