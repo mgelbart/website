@@ -62,7 +62,7 @@ filter_default = 0
   - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (Oct-Nov 2019, 8 lectures)
   - [DSCI 511: Programming for Data Science](https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE) (Sep 2019, 4 lectures)
 - I contributed several posts to the [UBC MDS blog](https://ubc-mds.github.io/).
-- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). Unfortunately, since then there has been significant controversy surrounding the company; see [this article](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup). I would urge anyone considering their service to familiarize yourself with the situation to make an informed decision. 
+- I created a [course on linear classifiers](https://www.datacamp.com/courses/linear-classifiers-in-python)	for [DataCamp](https://www.datacamp.com). Unfortunately, since then there has been significant controversy surrounding the company.
 <!-- - I wrote [Rhomboid](https://github.com/mgelbart/rhomboid), a set of Python scripts used to deliver courses via GitHub. There is also a [demo video](https://www.youtube.com/watch?v=zgiaBS4uUk0). -->
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
 - In grad school I wrote some posts for my research group's blog. One that may be of interest is on [compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
