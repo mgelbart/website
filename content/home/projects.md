@@ -55,11 +55,11 @@ filter_default = 0
 - I co-created the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
 - I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0).
 - I posted recordings of my lectures from several UBC courses: 
-  - [CPSC 330: Applied Machine Learning](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC) (Sep-Dec 2020, 23 lectures)
-  - [CPSC 340: Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) (Jan-Apr 2018, 33 lectures)
-  - [DSCI 572: Supervised Learning II](https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC) (Jan-Feb 2020, 8 lectures)
-  - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (Oct-Nov 2019, 8 lectures)
-  - [DSCI 511: Programming for Data Science](https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE) (Sep 2019, 4 lectures)
+  - [CPSC 330: Applied Machine Learning](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC) (2020)
+  - [CPSC 340: Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) (2018)
+  - [DSCI 572: Supervised Learning II](https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC) (2020)
+  - [DSCI 512: Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm) (2019)
+  - [DSCI 511: Programming for Data Science](https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE) (2019)
 - I contributed several posts to the [UBC MDS blog](https://ubc-mds.github.io/).
 - I was one of the developers of [Spearmint](https://github.com/HIPS/spearmint), a package for optimizing expensive functions using Bayesian optimization.
 - In grad school I wrote some posts for my research group's blog. One that may be of interest is on [compressing Genomes](https://lips.cs.princeton.edu/compressing-genomes/).
