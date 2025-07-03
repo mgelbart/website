@@ -54,8 +54,8 @@ filter_default = 0
 
 - I blog at the [VISST blog](https://visst.ca/blog) and previously the [UBC MDS blog](https://ubc-mds.github.io/) and [elsewhere](https://lips.cs.princeton.edu/compressing-genomes/).
 - I co-created the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) continuing education program at UBC. The interactive lessons associated with these courses are publicly available: see [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/) and [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/). 
-- I created a new UBC course, [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0).
-- I posted recordings of my lectures from several UBC courses: 
+- I created the UBC course [CPSC 330: Applied Machine Learning](https://github.com/UBC-CS/cpsc330/tree/v2.0).
+- UBC courses with recorded lectures available: 
   - [CPSC 330: Applied Machine Learning](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC) (2020)
   - [CPSC 340: Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) (2018)
   - [DSCI 572: Supervised Learning II](https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC) (2020)
